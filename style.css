@@ -154,7 +154,7 @@ header{
     }
     header{
         margin: 0px;
-        width: 330px;
+        width: 380px;
         border-radius: 20px ;
         background-color: black;
         display: flex;
@@ -179,7 +179,7 @@ header{
         color: #EC8B5E;
         font-weight: bold;
         font-size: 30px;
-        text-align: center;
+        text-align: left;
         padding-top: 120px;
        
         animation: 
@@ -188,7 +188,7 @@ header{
     }
     .first-img{
         width: 200px;
-        margin:0 0 0 70px;
+        margin:0 60px 0 0;
         animation: FadeIn 1s linear 1,
         bounce 2s ease-in-out 12s infinite;
         
