@@ -52,7 +52,7 @@ header{
 }
 .first-img{
     width: 500px;
-    margin-top: -500px;
+    margin-top: -100px;
     float: right;
     animation: FadeIn 1s linear 1,
     bounce 2s ease-in-out 12s infinite;
@@ -62,7 +62,7 @@ header{
     width: 300px;
     padding-left: 300px;
     padding-right: -800px;
-    margin: 209px 0 0  500px;
+    margin: -209px 0 0  500px;
     transform: scale(1);
     animation:
         FadeIn 1s linear 1 ,
